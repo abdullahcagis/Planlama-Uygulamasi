@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <ProduceReferenceAssembly>False</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NSwag.AspNetCore" Version="13.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Plan.Entities\Plan.Entities.csproj" />
+    <ProjectReference Include="..\Plans.Business\Plans.Business.csproj" />
+  </ItemGroup>
+
+</Project>

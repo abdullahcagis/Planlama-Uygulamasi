@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\Plans\Plan.Entities\bin\Debug\netcoreapp3.1\Plan.Entities.deps.json
+C:\Users\lenovo\source\repos\Plans\Plan.Entities\bin\Debug\netcoreapp3.1\Plan.Entities.dll
+C:\Users\lenovo\source\repos\Plans\Plan.Entities\bin\Debug\netcoreapp3.1\Plan.Entities.pdb
+C:\Users\lenovo\source\repos\Plans\Plan.Entities\obj\Debug\netcoreapp3.1\Plan.Entities.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Plans\Plan.Entities\obj\Debug\netcoreapp3.1\Plan.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Plans\Plan.Entities\obj\Debug\netcoreapp3.1\Plan.Entities.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Plans\Plan.Entities\obj\Debug\netcoreapp3.1\Plan.Entities.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Plans\Plan.Entities\obj\Debug\netcoreapp3.1\Plan.Entities.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Plans\Plan.Entities\obj\Debug\netcoreapp3.1\Plan.Entities.dll
+C:\Users\lenovo\source\repos\Plans\Plan.Entities\obj\Debug\netcoreapp3.1\Plan.Entities.pdb

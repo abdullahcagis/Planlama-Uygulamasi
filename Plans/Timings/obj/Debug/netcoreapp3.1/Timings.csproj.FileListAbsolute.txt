@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\Plans\Timings\bin\Debug\netcoreapp3.1\Timings.deps.json
+C:\Users\lenovo\source\repos\Plans\Timings\bin\Debug\netcoreapp3.1\Timings.dll
+C:\Users\lenovo\source\repos\Plans\Timings\bin\Debug\netcoreapp3.1\Timings.pdb
+C:\Users\lenovo\source\repos\Plans\Timings\obj\Debug\netcoreapp3.1\Timings.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Plans\Timings\obj\Debug\netcoreapp3.1\Timings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Plans\Timings\obj\Debug\netcoreapp3.1\Timings.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Plans\Timings\obj\Debug\netcoreapp3.1\Timings.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Plans\Timings\obj\Debug\netcoreapp3.1\Timings.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Plans\Timings\obj\Debug\netcoreapp3.1\Timings.dll
+C:\Users\lenovo\source\repos\Plans\Timings\obj\Debug\netcoreapp3.1\Timings.pdb
