@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\source\\repos\\Plans\\Plans.DataAcessLayer\\Plans.DataAcessLayer.csproj": {}
+    "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plans.DataAcessLayer\\Plans.DataAcessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\source\\repos\\Plans\\Plan.Entities\\Plan.Entities.csproj": {
+    "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plan.Entities\\Plan.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\Plans\\Plan.Entities\\Plan.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plan.Entities\\Plan.Entities.csproj",
         "projectName": "Plan.Entities",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\Plans\\Plan.Entities\\Plan.Entities.csproj",
+        "projectPath": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plan.Entities\\Plan.Entities.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\Plans\\Plan.Entities\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plan.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\lenovo\\source\\repos\\Plans\\Plans.DataAcessLayer\\Plans.DataAcessLayer.csproj": {
+    "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plans.DataAcessLayer\\Plans.DataAcessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\Plans\\Plans.DataAcessLayer\\Plans.DataAcessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plans.DataAcessLayer\\Plans.DataAcessLayer.csproj",
         "projectName": "Plans.DataAcessLayer",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\Plans\\Plans.DataAcessLayer\\Plans.DataAcessLayer.csproj",
+        "projectPath": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plans.DataAcessLayer\\Plans.DataAcessLayer.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\Plans\\Plans.DataAcessLayer\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plans.DataAcessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,11 +83,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\lenovo\\source\\repos\\Plans\\Plan.Entities\\Plan.Entities.csproj": {
-                "projectPath": "C:\\Users\\lenovo\\source\\repos\\Plans\\Plan.Entities\\Plan.Entities.csproj"
+              "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plan.Entities\\Plan.Entities.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plan.Entities\\Plan.Entities.csproj"
               },
-              "C:\\Users\\lenovo\\source\\repos\\Plans\\Timings\\Timings.csproj": {
-                "projectPath": "C:\\Users\\lenovo\\source\\repos\\Plans\\Timings\\Timings.csproj"
+              "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Timings\\Timings.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Timings\\Timings.csproj"
               }
             }
           }
@@ -133,14 +133,14 @@
         }
       }
     },
-    "C:\\Users\\lenovo\\source\\repos\\Plans\\Timings\\Timings.csproj": {
+    "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Timings\\Timings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\Plans\\Timings\\Timings.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Timings\\Timings.csproj",
         "projectName": "Timings",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\Plans\\Timings\\Timings.csproj",
+        "projectPath": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Timings\\Timings.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\Plans\\Timings\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Timings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

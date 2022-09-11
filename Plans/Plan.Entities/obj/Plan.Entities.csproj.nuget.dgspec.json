@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\source\\repos\\Plans\\Plan.Entities\\Plan.Entities.csproj": {}
+    "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plan.Entities\\Plan.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\source\\repos\\Plans\\Plan.Entities\\Plan.Entities.csproj": {
+    "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plan.Entities\\Plan.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\Plans\\Plan.Entities\\Plan.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plan.Entities\\Plan.Entities.csproj",
         "projectName": "Plan.Entities",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\Plans\\Plan.Entities\\Plan.Entities.csproj",
+        "projectPath": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plan.Entities\\Plan.Entities.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\Plans\\Plan.Entities\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plan.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

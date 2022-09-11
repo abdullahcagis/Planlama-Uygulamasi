@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\Plans\\Timings\\Timings.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Timings\\Timings.csproj",
       "projectName": "Timings",
-      "projectPath": "C:\\Users\\lenovo\\source\\repos\\Plans\\Timings\\Timings.csproj",
+      "projectPath": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Timings\\Timings.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\source\\repos\\Plans\\Timings\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Timings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

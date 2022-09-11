@@ -1,8 +1,10 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.IdentityModel.Tokens;
 using Plans.Business.Abstract;
 using Plans.Business.Concrete;
 using Plans.DataAcessLayer.Abstract;
@@ -10,6 +12,7 @@ using Plans.DataAcessLayer.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 
 namespace Plans.API
@@ -19,6 +22,9 @@ namespace Plans.API
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            var Key = Configuration.GetValue<string>("Key");
+            var ýssuer = Configuration.GetValue<string>("Issuer");
+            var audience = Configuration.GetValue<string>("Audience");
         }
 
         public IConfiguration Configuration { get; }
@@ -26,6 +32,24 @@ namespace Plans.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+                .AddJwtBearer(options =>
+                {
+                    options.TokenValidationParameters = new TokenValidationParameters
+                    {
+                        ValidateIssuer = true,
+                        ValidateAudience = true,
+                        ValidateLifetime = true,
+                        ValidateIssuerSigningKey = true,
+                        ValidIssuer = Configuration["Jwt:Issuer"],
+                        ValidAudience = Configuration["Jwt:Audience"],
+                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Jwt:Key"]))
+                    };
+                });
+
+
+            services.AddMvc();
             services.AddControllers();
             services.AddSingleton<IPlansService, PlansManager>();
             services.AddSingleton<IPlansRepository, PlansRepository>();
@@ -62,7 +86,7 @@ namespace Plans.API
             app.UseRouting();
             app.UseOpenApi();
             app.UseSwaggerUi3();
-
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

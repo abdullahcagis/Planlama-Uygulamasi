@@ -5167,11 +5167,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\Plans\\Plans.Business\\Plans.Business.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plans.Business\\Plans.Business.csproj",
       "projectName": "Plans.Business",
-      "projectPath": "C:\\Users\\lenovo\\source\\repos\\Plans\\Plans.Business\\Plans.Business.csproj",
+      "projectPath": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plans.Business\\Plans.Business.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\source\\repos\\Plans\\Plans.Business\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plans.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5188,11 +5188,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\lenovo\\source\\repos\\Plans\\Plan.Entities\\Plan.Entities.csproj": {
-              "projectPath": "C:\\Users\\lenovo\\source\\repos\\Plans\\Plan.Entities\\Plan.Entities.csproj"
+            "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plan.Entities\\Plan.Entities.csproj": {
+              "projectPath": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plan.Entities\\Plan.Entities.csproj"
             },
-            "C:\\Users\\lenovo\\source\\repos\\Plans\\Plans.DataAcessLayer\\Plans.DataAcessLayer.csproj": {
-              "projectPath": "C:\\Users\\lenovo\\source\\repos\\Plans\\Plans.DataAcessLayer\\Plans.DataAcessLayer.csproj"
+            "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plans.DataAcessLayer\\Plans.DataAcessLayer.csproj": {
+              "projectPath": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plans.DataAcessLayer\\Plans.DataAcessLayer.csproj"
             }
           }
         }

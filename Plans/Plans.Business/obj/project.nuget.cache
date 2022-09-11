@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s9/26LsR8elmkaT8gqs0RIogQc+N/qVMVQ/QJVB1kLHs6jHp6mJE6vv5nUAGc4fbBDPzHRSCfKBVby0Tg8manw==",
+  "dgSpecHash": "lRGGnbqxfqq0mgbsitnFFPJeMg+KZI8z8qwWy1iLNTAgBTHZWU7LE28tUcs3hj9DeQft2hs3t79cKf9GpU094Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lenovo\\source\\repos\\Plans\\Plans.Business\\Plans.Business.csproj",
+  "projectFilePath": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Planlama-Uygulamasi\\Plans\\Plans.Business\\Plans.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
